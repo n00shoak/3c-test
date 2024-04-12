@@ -8,26 +8,26 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
+  - whatIsPlayer
+  - 
+  - 
+  - whatIsWall
+  - whatIsGround
+  - 
+  - 
+  - 
+  - whatIsKnife
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - postProcessing
+  - dontRender
+  - bloom
   - 
   - 
   - 
